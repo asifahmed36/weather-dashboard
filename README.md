@@ -19,6 +19,6 @@ A responsive weather application that fetches real-time meteorological data.
 
 ### How to run
 
-1. Clone the repo: `git clone [your-repo-url]`
+1. Clone the repo: `git clone [https://github.com/asifahmed36/weather-dashboard]`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
